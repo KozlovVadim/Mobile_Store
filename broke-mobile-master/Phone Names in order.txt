@@ -1,0 +1,23 @@
+1. apple-iphone-5c LOW END https://www.gsmarena.com/apple_iphone_5c-5690.php
+2. apple-iphone-x HIGH END https://www.gsmarena.com/apple_iphone_x-8858.php
+3. apple-iphone-4 LOW END https://www.gsmarena.com/apple_iphone_4-3275.php
+
+4. blackberry-dtek LOW END https://www.gsmarena.com/blackberry_dtek60-8351.php
+5. blackberry-key2 MIDDLE END https://www.gsmarena.com/blackberry_key2_le-9292.php
+6. BlackBerry-Porsche HIGH END https://www.gsmarena.com/blackberry_porsche_design_p_9982-5856.php
+
+7. honor-magic HIGH END https://www.gsmarena.com/huawei_honor_magic_2-9381.php
+8. huawei-honor-10 HIGH END https://www.gsmarena.com/huawei_honor_10-9157.php
+9. huawei-mate20 HIGH END https://www.gsmarena.com/huawei_mate_20_pro-9343.php
+
+10. lg-candy LOW END https://www.gsmarena.com/lg_candy-9309.php
+11. lg-v20 MIDDLE END https://www.gsmarena.com/lg_v20-8238.php
+12. lg-v40 HIGH END https://www.gsmarena.com/lg_v40_thinq-9300.php
+
+13. oneplus-6 MIDDLE END https://www.gsmarena.com/oneplus_6-9109.php
+14. oneplus-6t MIDDLE END https://www.gsmarena.com/oneplus_6t-9350.php
+15. oneplus-x LOW END https://www.gsmarena.com/oneplus_x-7630.php
+
+16. samsung-galaxy-a6s LOW END https://www.gsmarena.com/samsung_galaxy_a6s-9352.php
+17. samsung-galaxy-note9 HIGH END https://www.gsmarena.com/samsung_galaxy_note9-9163.php
+18 .samsung-galaxy-s-light-luxury MIDDLE END https://www.gsmarena.com/samsung_galaxy_s_light_luxury-9202.php

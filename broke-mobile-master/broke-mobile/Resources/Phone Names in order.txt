@@ -1,0 +1,23 @@
+1. apple-iphone-5c LOW END
+2. apple-iphone-x HIGH END
+3. apple-iphone-4 LOW END 
+
+4. blackberry-dtek LOW END
+5. blackberry-key2 MIDDLE END
+6. BlackBerry-Porsche HIGH END
+
+7. honor-magic HIGH END
+8. huawei-honor-10 HIGH END
+9. huawei-mate20 HIGH END
+
+10. lg-candy LOW END
+11. lg-v20 MIDDLE END
+12. lg-v40 HIGH END
+
+13. oneplus-6 MIDDLE END
+14. oneplus-6t MIDDLE END
+15. oneplus-x LOW END
+
+16. samsung-galaxy-a6s LOW END
+17. samsung-galaxy-note9 HIGH END
+18 .samsung-galaxy-s-light-luxury MIDDLE END
